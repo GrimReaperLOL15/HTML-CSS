@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+    position: relative;
+}
+
+.banner{
+    width: 1536px;
+    height:100vh;
+    background-image: url(Soul.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.content{
+    width:100%;
+    position:relative;
+    top:5%;
+    transform: translateY(-50);
+    text-align: center;
+    color:white;
+    cursor: pointer;
+}
+button{
+    width:200px;
+    padding:15px 0;
+    text-align: center;
+    margin:20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border:2px solid white;
+    background: black;
+    color: black;
+    cursor: pointer;
+    position:relative;
+    left:0px;
+    top:0px;
+}
+.fix{
+    width:100%;
+    position:relative;
+    top:50%;
+    
+    text-align: center;
+    color:white;
+    cursor: pointer;
+}
+h1{
+    color:white;
+    background-color: black;
+    font-size: 40px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 25px;
+    padding:10px;
+    
+    
+}
+a:link{
+    color:white;
+}

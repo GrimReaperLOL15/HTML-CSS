@@ -1,0 +1,24 @@
+.banner{
+    width: 1536px;
+    height:100vh;
+    background-image:url(Soon.jpg);
+    background-size: cover;
+    background-position: center;
+
+
+}
+button{
+    width:200px;
+    padding:15px 0;
+    text-align: center;
+    margin:20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border:2px solid black;
+    background: transparent;
+    color: black;
+    cursor: pointer;
+    position:relative;
+    left:650px;
+    top:520px;
+}
